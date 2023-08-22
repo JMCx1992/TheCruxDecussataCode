@@ -1,4 +1,4 @@
-The Crux Decussata Code
+**The Crux Decussata Code**
 
 The founder of CruxDecussata, known only as 'The Dev' or 'CP33', is an annoymous persona. The Dev bought the domain URL of xn--33h.com from Herbert Sim in 11 July 2023, and launched the project on 1 August 2023.
 
