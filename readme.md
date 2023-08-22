@@ -12,4 +12,4 @@ www.cruxdecussata.com or www.sn--3h.com
 
 This github page is dedicated to solving the mystery around "Crux Decussata".
 
-[]
+- [ ]
